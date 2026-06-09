@@ -1,9 +1,8 @@
 # Opa tudo bom? 👋
 
-## Sou o Alexandre, seja bem vindo(a) ao meu Github. Sou um cara apaixonado por programação e sempre estou em busca de desafios para aprimorar cada vez mais minhas habilidades. Aqui vai algumas das tecnologias que trabalho.
+### Sou o Alexandre. Seja bem vindo(a) ao meu Github. Sou um cara apaixonado por programação e sempre estou em busca de desafios para aprimorar cada vez mais minhas habilidades. Aqui vai algumas das tecnologias que trabalho.
 
-## Hi, I'm Alexandre. Welcome to my GitHub!
-I'm a passionate software developer who is constantly seeking new challenges to improve my skills and grow as a professional. Here are some of the technologies I work with.
+### Hi, I'm Alexandre. Welcome to my GitHub! I'm a passionate software developer who is constantly seeking new challenges to improve my skills and grow as a professional. Here are some of the technologies I work with.
 
 
 ## Frontend 🖥️
